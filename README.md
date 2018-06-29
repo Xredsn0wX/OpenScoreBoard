@@ -14,7 +14,7 @@ When programmed into a PIC Microcontroller, the controller lights up LED strips 
 ...and oscilloscopes and stuff
 
 ## Stats
-*I/O 44 Wires
+* I/O 44 Wires
 + 42 Output to LEDs
 +1 Tx Pin
-+1 Rx Pin
++ 1 Rx Pin
