@@ -1,6 +1,7 @@
 # OpenScoreBoard
 This repo contains the source code to create a digital scoreboard by multiplexing through 6 LED Strips fashioned in the form of seven segment dispays. To use this, you must wire the PIC Microcontroller to multiplex! This will not work with addressable LEDs!
 
+Note: This code is written for a very specific hardware setup, and some coding conventions in this repo will seem trivial, not to mentiuon that this code is specifically for a microcontroller. Standard software conventions are out the window
 
 ## What it Does
 When programmed into a PIC Microcontroller, the controller lights up LED strips to show digits on a scoreboard, It works with a companion application which can be found here (link soon...)
